@@ -5,8 +5,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zillur Rahman | Software Engineer</title>
-    <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+    <title>I’m Zillur Rahman, a passionate software engineer</title>
+    <link rel="icon" type="image/x-icon" href="assets/images/me.jpg">
+    
+    <meta property="og:title" content="I’m Zillur Rahman, a passionate software engineer" />
+    <meta property="og:description" content="I create custom web applications and websites using Core PHP, Laravel, MySQL. My services include: Custom PHP Website Development, PHP & MySQL Bug Fixes, Website Design, Single Vendor Store Development, Payment Gateway Integration, With skills in front-end technologies like HTML5, CSS3, and JavaScript, I deliver tailored solutions to meet your needs. Let’s work together to bring your project to life!" />
+    <meta property="og:image" content="https://zillurweb.xyz/assets/images/me.jpg" />
+    <meta property="og:url" content="https://zillurweb.xyz" />
+    <meta property="og:type" content="Software Engineer" />
+    <meta property="og:site_name" content="Zillur Web" />
+
+    <!-- Optional Tags -->
+    <!--<meta property="og:locale" content="en_US" />-->
+    <!--<meta property="og:determiner" content="the" />-->
+    <!--<meta property="og:video" content="https://yourwebsite.com/video.mp4" />-->
+    <!--<meta property="og:audio" content="https://yourwebsite.com/audio.mp3" />-->
+    <!--<meta property="og:updated_time" content="2024-01-01T12:00:00Z" />-->
+    
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="I’m Zillur Rahman, a passionate software engineer" />
+    <meta name="twitter:description" content="I create custom web applications and websites using Core PHP, Laravel, MySQL. My services include: Custom PHP Website Development, PHP & MySQL Bug Fixes, Website Design, Single Vendor Store Development, Payment Gateway Integration, With skills in front-end technologies like HTML5, CSS3, and JavaScript, I deliver tailored solutions to meet your needs. Let’s work together to bring your project to life!" />
+    <meta name="twitter:image" content="https://zillurweb.xyz/assets/images/me.jpg" />
+    <meta name="twitter:site" content="https://zillurweb.xyz" />
 
     <!-- Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -131,13 +152,16 @@
                 <p>Social</p>
                 <ul class="social-links d-flex align-items-center">
                     <li>
-                        <a href="#"><i class="lab la-twitter"></i></a>
+                        <a href="https://www.facebook.com/zillur.web/"><i class="lab la-facebook"></i></a>
                     </li>
                     <li>
-                        <a href="#"><i class="lab la-dribbble"></i></a>
+                        <a href="https://www.linkedin.com/in/zillur-rahman-22bb01185/"><i class="lab la-linkedin"></i></a>
                     </li>
                     <li>
-                        <a href="#"><i class="lab la-instagram"></i></a>
+                        <a href="https://www.instagram.com/web.zillur/"><i class="lab la-instagram"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/zillur-web"><i class="lab la-github"></i></a>
                     </li>
                 </ul>
             </div>
@@ -189,11 +213,13 @@
 
     <div class="left-sidebar">
         <div class="sidebar-header text-center">
-            <img src="assets/images/logo.png" alt="Logo">
+            <a href="index.php">
+                <img src="assets/images/logo.png" alt="Logo">
+            </a>
              <!-- <h1>Zillur Rahman</h1> -->
             <!-- <span class="designation">Framer </span> -->
         </div>
-        <img class="me" src="assets/images/me.jpg" alt="Me">
+        <img class="me" src="assets/images/me.jpg" alt="Zillur Rahman">
         <h2 class="email" style="font-weight: 700;">Zillur Rahman</h2>
         <p class="email text-center">Jr. Software Engineer</p>
         <!-- <h2 class="email">zillur.web@gmail.com</h2>
@@ -201,16 +227,16 @@
         <!-- <p class="copyright">&copy; 2024 Zillur Rahman. All Rights Reserved</p> -->
         <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
             <li>
-                <a href="#"><i class="lab la-twitter"></i></a>
+                <a href="https://www.facebook.com/zillur.web/"><i class="lab la-facebook"></i></a>
             </li>
             <li>
-                <a href="#"><i class="lab la-dribbble"></i></a>
+                <a href="https://www.linkedin.com/in/zillur-rahman-22bb01185/"><i class="lab la-linkedin"></i></a>
             </li>
             <li>
-                <a href="#"><i class="lab la-instagram"></i></a>
+                <a href="https://www.instagram.com/web.zillur/"><i class="lab la-instagram"></i></a>
             </li>
             <li>
-                <a href="#"><i class="lab la-github"></i></a>
+                <a href="https://github.com/zillur-web"><i class="lab la-github"></i></a>
             </li>
         </ul>
         <a href="#" class="theme-btn">
@@ -220,29 +246,28 @@
 
     <main class="drake-main">
         <div id="smooth-wrapper">
-            <div id="smooth-content">
+            <div id="smooth-content" style="padding: 0px 10px;">
 
                 <div class="left-sidebar">
                     <div class="sidebar-header d-flex align-items-center justify-content-between">
                         <img src="assets/images/logo.png" alt="Logo">
-                        <span class="designation">Framer Designer & Developer</span>
                     </div>
-                    <img class="me" src="assets/images/me.jpg" alt="Me">
-                    <h2 class="email">zillur.web@gmail.com</h2>
-                    <h2 class="address">Dhaka, Bangladesh</h2>
-                    <p class="copyright">&copy; All Rights Reserved</p>
+                    <img class="me" src="assets/images/me.jpg" alt="Zillur Rahman">
+                   
+                    <h2 class="email" style="font-weight: 700;">Zillur Rahman</h2>
+                    <p class="email text-center">Jr. Software Engineer</p>
                     <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
                         <li>
-                            <a href="#"><i class="lab la-twitter"></i></a>
+                            <a href="https://www.facebook.com/zillur.web/"><i class="lab la-facebook"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="lab la-dribbble"></i></a>
+                            <a href="https://www.linkedin.com/in/zillur-rahman-22bb01185/"><i class="lab la-linkedin"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="lab la-instagram"></i></a>
+                            <a href="https://www.instagram.com/web.zillur/"><i class="lab la-instagram"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="lab la-github"></i></a>
+                            <a href="https://github.com/zillur-web"><i class="lab la-github"></i></a>
                         </li>
                     </ul>
                     <a href="#" class="theme-btn">
@@ -258,9 +283,9 @@
                                 <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
                                     <i class="las la-home"></i> Introduce
                                 </h4>
-                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Say Hi from <span>Zillur Rahman</span>, Framer Jr. Software Engineer</h1>
+                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Hi, I’m <span>Zillur Rahman</span>, a Jr. Software Eng.</h1>
                             </div>
-                            <p class="scroll-animation" data-animation="fade_from_bottom">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident optio dolorum vero corporis cumque nostrum nesciunt rerum quae esse aperiam?</p>
+                            <p class="scroll-animation" data-animation="fade_from_bottom"> I specialize in creating visually stunning and highly functional web applications that enhance user experiences. With a love for innovative design and coding, I aim to bring ideas to life in a way that captivates and inspires.</p>
                             <a href="#portfolio" 
                                 class="go-to-project-btn scroll-to scroll-animation" 
                                 data-animation="rotate_up">
@@ -270,11 +295,11 @@
         
                             <div class="facts d-flex">
                                 <div class="left scroll-animation" data-animation="fade_from_left">
-                                    <h1>10+</h1>
+                                    <h1>3+</h1>
                                     <p>Years of <br>Experience</p>
                                 </div>
                                 <div class="right scroll-animation" data-animation="fade_from_right">
-                                    <h1>182+</h1>
+                                    <h1>100+</h1>
                                     <p>projects completed on <br>15 countries</p>
                                 </div>
                             </div>
@@ -287,16 +312,13 @@
                         <div class="about-content content-width">
                             <div class="section-header">
                                 <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
-                                    <i class="lar la-user"></i> About
+                                    <i class="lar la-user"></i> Who i am
                                 </h4>
-                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Every great design begin with<br>
-                                    an even <span>better story</span></h1>
+                                <h1 class="scroll-animation" data-animation="fade_from_bottom">A passionate creator sharing <span> my journey, inspirations, & the experiences that shape my work.</span></h1>
                             </div>
-                            <p class="scroll-animation" data-animation="fade_from_bottom">Since beginning my journey as a freelance designer nearly 8 years ago, 
-                                I've done remote work for agencies, consulted for startups, and collaborated with 
-                                talented people to create digital products for both business and consumer use. 
-                                I'm quietly confident, naturally curious, and perpetually working on improving my 
-                                chopsone design problem at a time.</p>
+                            <p class="scroll-animation" data-animation="fade_from_bottom">I’m Zillur Rahman, a passionate software engineer with a strong foundation in PHP, Laravel, MySQL, and React.js. My journey in technology began with a curiosity for problem-solving, which has evolved into a commitment to building robust and scalable web applications.</p>
+                            <p class="scroll-animation" data-animation="fade_from_bottom">With a keen eye for detail, I enjoy crafting clean, efficient code and creating seamless user experiences. My experience with Laravel allows me to develop dynamic back-end solutions, while my skills in React help me deliver responsive front-end interfaces that users love.</p>
+                            <p class="scroll-animation" data-animation="fade_from_bottom">I thrive on collaboration and continuous learning, always seeking to stay updated with the latest industry trends and best practices. Let’s connect and explore how we can turn ideas into impactful digital solutions!</p>
                         </div>
                     </div>
                 </section>
@@ -314,21 +336,30 @@
         
                             <div class="resume-timeline">
                                 <div class="item scroll-animation" data-animation="fade_from_right">
-                                    <span class="date">2023 - Present</span>
+                                    <span class="date">2024 - Present</span>
+                                    <h2>Freelance</h2>
+                                    <h2>Web App Development & Engineering</h2>
+                                </div>
+                                
+                                <div class="item scroll-animation" data-animation="fade_from_right">
+                                    <span class="date">2022 - 2024</span>
                                     <h2>Junior Software Engineer</h2>
                                     <p>Soft Host IT</p>
                                 </div>
+                                
                                 <div class="item scroll-animation" data-animation="fade_from_right">
                                     <span class="date">2020 - Present</span>
                                     <h2>Freelance</h2>
                                     <p>Fiverr</p>
                                     <h2>Web Design & Development</h2>
                                 </div>
+                                
                                 <div class="item scroll-animation" data-animation="fade_from_right">
                                     <span class="date">2021 - Running</span>
                                     <h2>Bachelor Of Computer Science</h2>
                                     <p>Dhaka International University</p>
                                 </div>
+                                
                                 <div class="item scroll-animation" data-animation="fade_from_right">
                                     <span class="date">2016 - 2020</span>
                                     <h2>Diploma In Computer Science</h2>
@@ -355,21 +386,16 @@
                                 <div class="service-item scroll-animation" data-animation="fade_from_bottom">
                                     <i class="las la-bezier-curve"></i>
                                     <h2>Website Design</h2>
-                                    <p>I created digital products with unique ideas use Figma & Framer</p>
-                                    <span class="projects">24 Projects</span>
+                                    <p>I have worked with various technologies including HTML5, CSS3, CSS3 Animation, Bootstrap, JavaScript, JQuery, JQuery Animation, rect.js, and an exquisite blend of experience in WordPress.  I've had plenty of experience with developing sites for IE7+, Chrome, Firefox, and Safari. More recently, I've been working on Convert PSD to HTML, WordPress sites.</p>
+                                    <span class="projects">20+ Projects</span>
                                 </div>
                                 <div class="service-item scroll-animation" data-animation="fade_from_bottom">
                                     <i class="las la-code"></i>
-                                    <h2>Development</h2>
-                                    <p>I build website go live with Web Application, Website Etc</p>
-                                    <span class="projects">126 Projects</span>
+                                    <h2>Web App Development</h2>
+                                    <p>I create custom web applications and websites using Core PHP, Laravel, MySQL. My services include: Custom PHP Website Development, PHP & MySQL Bug Fixes, Website Design, Single Vendor Store Development, Payment Gateway Integration, With skills in front-end technologies like HTML5, CSS3, and JavaScript, I deliver tailored solutions to meet your needs. Let’s work together to bring your project to life!</p>
+                                    <span class="projects">80+ Projects</span>
                                 </div>
-                                <div class="service-item scroll-animation" data-animation="fade_from_bottom">
-                                    <i class="las la-bezier-curve"></i>
-                                    <h2>Graphics Design</h2>
-                                    <p>I will make attactive Logo, Banner Etc</p>
-                                    <span class="projects">8 Projects</span>
-                                </div>
+                                
                             </div>
         
                         </div>
@@ -384,19 +410,11 @@
                                 <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
                                     <i class="las la-shapes"></i> my skills
                                 </h4>
-                                <h1 class="scroll-animation" data-animation="fade_from_bottom">My <span>Advantages</span></h1>
+                                <h1 class="scroll-animation" data-animation="fade_from_bottom">My <span>Excellent Skills</span></h1>
                             </div>
         
                             <div class="row skills text-center">
-                                <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
-                                    <div class="skill">
-                                        <div class="skill-inner">
-                                            <img src="assets/images/figma.png" alt="Figma">
-                                            <h1 class="percent">92%</h1>
-                                        </div>
-                                        <p class="name">Figma</p>
-                                    </div>
-                                </div>
+                                
                                 <!-- <div class="col-md-3 scroll-animation" data-animation="fade_from_top">
                                     <div class="skill">
                                         <div class="skill-inner">
@@ -406,33 +424,62 @@
                                         <p class="name">Webflow</p>
                                     </div>
                                 </div> -->
-                                <div class="col-md-3 scroll-animation" data-animation="fade_from_right">
+                                <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                     <div class="skill">
                                         <div class="skill-inner">
-                                            <img src="assets/images/react.png" alt="React">
-                                            <h1 class="percent">90%</h1>
+                                            <img style="width: 90px; margin-bottom: 0px;" src="assets/images/php.png" alt="PHP">
+                                            <h1 class="percent">98%</h1>
                                         </div>
-                                        <p class="name">React</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
-                                    <div class="skill">
-                                        <div class="skill-inner">
-                                            <img src="assets/images/wordpress.png" alt="WordPress">
-                                            <h1 class="percent">86%</h1>
-                                        </div>
-                                        <p class="name">WordPress</p>
+                                        <p class="name">Core PHP</p>
                                     </div>
                                 </div>
                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                     <div class="skill">
                                         <div class="skill-inner">
                                             <img src="assets/images/laravel.png" alt="Laravel/PHP">
-                                            <h1 class="percent">95%</h1>
+                                            <h1 class="percent">98%</h1>
                                         </div>
-                                        <p class="name">Laravel/PHP</p>
+                                        <p class="name">Laravel Framework</p>
                                     </div>
                                 </div>
+                                <div class="col-md-3 scroll-animation" data-animation="fade_from_right">
+                                    <div class="skill">
+                                        <div class="skill-inner">
+                                            <img src="assets/images/react.png" alt="React">
+                                            <h1 class="percent">80%</h1>
+                                        </div>
+                                        <p class="name">React.js</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
+                                    <div class="skill">
+                                        <div class="skill-inner">
+                                            <img src="assets/images/wordpress.png" alt="WordPress">
+                                            <h1 class="percent">60%</h1>
+                                        </div>
+                                        <p class="name">WordPress</p>
+                                    </div>
+                                </div>
+                                
+                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
+                                    <div class="skill">
+                                        <div class="skill-inner">
+                                            <img style="width: 80px; margin-bottom: 15px;" src="assets/images/jquery.png" alt="JavaScript">
+                                            <h1 class="percent">90%</h1>
+                                        </div>
+                                        <p class="name">JavaScript/jQuery</p>
+                                    </div>
+                                </div>
+                                
+                                <!--<div class="col-md-3 scroll-animation" data-animation="fade_from_left">-->
+                                <!--    <div class="skill">-->
+                                <!--        <div class="skill-inner">-->
+                                <!--            <img src="assets/images/figma.png" alt="Figma">-->
+                                <!--            <h1 class="percent">92%</h1>-->
+                                <!--        </div>-->
+                                <!--        <p class="name">Adobe Photoshop</p>-->
+                                <!--    </div>-->
+                                <!--</div>-->
                             </div>
         
                         </div>
@@ -541,14 +588,14 @@
                 </section>
         
         
-                <section class="testimonial-area page-section scroll-to-page" id="testimonial">
+                <section class="testimonial-area page-section scroll-to-page" style="margin-bottom:60px;" id="testimonial">
                     <div class="custom-container">
                         <div class="testimonial-content content-width">
                             <div class="section-header">
                                 <h4 class="subtitle scroll-animation" data-animation="fade_from_bottom">
                                     <i class="lar la-comment"></i> testimonial
                                 </h4>
-                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Trusted by <span>Hundered Clients</span></h1>
+                                <h1 class="scroll-animation" data-animation="fade_from_bottom">Trusted by <span> Clients</span></h1>
                             </div>
         
                             <div class="testimonial-slider-wrap scroll-animation" data-animation="fade_from_bottom">
@@ -558,11 +605,11 @@
                                             <div class="author d-flex align-items-center">
                                                 <img src="assets/images/testimonial-1.jpg" alt="testinomial">
                                                 <div class="right">
-                                                    <h3>Paublo Dybala</h3>
-                                                    <p class="designation">CEO of <span>IBM Global</span></p>
+                                                    <h3>Aligator</h3>
+                                                    <p class="designation">Data Analyst of <span>Evna Care</span></p>
                                                 </div>
                                             </div>
-                                            <p>“Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur hic ducimus voluptatibus tempore sint id consequatur adipisci quo et voluptate.”</p>
+                                            <p>“Brillant and respectful person. Very nice experience with him. He his polite, very communicative person I am very happy to work with him.”</p>
         
                                             <a href="#" class="project-btn">Project</a>
                                         </div>
@@ -570,13 +617,13 @@
                                     <div class="testimonial-item">
                                         <div class="testimonial-item-inner">
                                             <div class="author d-flex align-items-center">
-                                                <img src="assets/images/testimonial-2.jpg" alt="testinomial">
+                                                <img src="assets/images/testimonial-1.jpg" alt="testinomial">
                                                 <div class="right">
-                                                    <h3>Christina Morillo</h3>
-                                                    <p class="designation">Product Management of <span>Invision App Inc</span></p>
+                                                    <h3>zmustna</h3>
+                                                    <p class="designation">Project Maneger</p>
                                                 </div>
                                             </div>
-                                            <p>“Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur hic ducimus voluptatibus tempore sint id consequatur adipisci quo et voluptate.”</p>
+                                            <p>“I had an outstanding experience working with Zillur Rahman. They delivered exceptional web solutions tailored to my needs, showcasing expertise in Core PHP and MySQL. Their attention to detail and prompt communication made the entire process seamless. Highly recommend!”</p>
         
                                             <a href="#" class="project-btn">Project</a>
                                         </div>
@@ -584,13 +631,13 @@
                                     <div class="testimonial-item">
                                         <div class="testimonial-item-inner">
                                             <div class="author d-flex align-items-center">
-                                                <img src="assets/images/testimonial-3.jpg" alt="testinomial">
+                                                <img src="assets/images/testimonial-1.jpg" alt="testinomial">
                                                 <div class="right">
                                                     <h3>Phil Foden</h3>
-                                                    <p class="designation">Director of <span>Envato LLC</span></p>
+                                                    <p class="designation">--</p>
                                                 </div>
                                             </div>
-                                            <p>“Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur hic ducimus voluptatibus tempore sint id consequatur adipisci quo et voluptate.”</p>
+                                            <p>“Working with Zillur Rahman was outstanding! They demonstrated remarkable skill in developing my custom PHP website and quickly resolved any issues that arose. Their professionalism and dedication to meeting my requirements truly set them apart. I highly recommend their services!”</p>
         
                                             <a href="#" class="project-btn">Project</a>
                                         </div>
