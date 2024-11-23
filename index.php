@@ -6,26 +6,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>I’m Zillur Rahman, a passionate software engineer</title>
+    <meta name="description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+    <meta name="keywords" content="Zillur-Web, zillurweb, Zillur Rahman, PHP Developer, Laravel Expert, Web Application Creator, MySQL, Front-end Developer, HTML5, CSS3, JavaScript, React.js">
+
     <link rel="icon" type="image/x-icon" href="assets/images/me.jpg">
     
     <meta property="og:title" content="I’m Zillur Rahman, a passionate software engineer" />
-    <meta property="og:description" content="I create custom web applications and websites using Core PHP, Laravel, MySQL. My services include: Custom PHP Website Development, PHP & MySQL Bug Fixes, Website Design, Single Vendor Store Development, Payment Gateway Integration, With skills in front-end technologies like HTML5, CSS3, and JavaScript, I deliver tailored solutions to meet your needs. Let’s work together to bring your project to life!" />
+    <meta name="og:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+
     <meta property="og:image" content="https://zillurweb.xyz/assets/images/me.jpg" />
     <meta property="og:url" content="https://zillurweb.xyz" />
     <meta property="og:type" content="Software Engineer" />
     <meta property="og:site_name" content="Zillur Web" />
-
-    <!-- Optional Tags -->
-    <!--<meta property="og:locale" content="en_US" />-->
-    <!--<meta property="og:determiner" content="the" />-->
-    <!--<meta property="og:video" content="https://yourwebsite.com/video.mp4" />-->
-    <!--<meta property="og:audio" content="https://yourwebsite.com/audio.mp3" />-->
-    <!--<meta property="og:updated_time" content="2024-01-01T12:00:00Z" />-->
     
     <!-- Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="I’m Zillur Rahman, a passionate software engineer" />
-    <meta name="twitter:description" content="I create custom web applications and websites using Core PHP, Laravel, MySQL. My services include: Custom PHP Website Development, PHP & MySQL Bug Fixes, Website Design, Single Vendor Store Development, Payment Gateway Integration, With skills in front-end technologies like HTML5, CSS3, and JavaScript, I deliver tailored solutions to meet your needs. Let’s work together to bring your project to life!" />
+    <meta name="twitter:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+
+
     <meta name="twitter:image" content="https://zillurweb.xyz/assets/images/me.jpg" />
     <meta name="twitter:site" content="https://zillurweb.xyz" />
 
@@ -214,12 +213,12 @@
     <div class="left-sidebar">
         <div class="sidebar-header text-center">
             <a href="index.php">
-                <img src="assets/images/logo.png" alt="Logo">
+                <img src="assets/images/logo.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
             </a>
              <!-- <h1>Zillur Rahman</h1> -->
             <!-- <span class="designation">Framer </span> -->
         </div>
-        <img class="me" src="assets/images/me.jpg" alt="Zillur Rahman">
+        <img class="me" src="assets/images/me.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
         <h2 class="email" style="font-weight: 700;">Zillur Rahman</h2>
         <p class="email text-center">Jr. Software Engineer</p>
         <!-- <h2 class="email">zillur.web@gmail.com</h2>
@@ -250,9 +249,9 @@
 
                 <div class="left-sidebar">
                     <div class="sidebar-header d-flex align-items-center justify-content-between">
-                        <img src="assets/images/logo.png" alt="Logo">
+                        <img src="assets/images/logo.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                     </div>
-                    <img class="me" src="assets/images/me.jpg" alt="Zillur Rahman">
+                    <img class="me" src="assets/images/me.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                    
                     <h2 class="email" style="font-weight: 700;">Zillur Rahman</h2>
                     <p class="email text-center">Jr. Software Engineer</p>
@@ -289,7 +288,7 @@
                             <a href="#portfolio" 
                                 class="go-to-project-btn scroll-to scroll-animation" 
                                 data-animation="rotate_up">
-                                <img src="assets/images/round-text.png" alt="">
+                                <img src="assets/images/round-text.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                 <i class="las la-arrow-down"></i>
                             </a>
         
@@ -427,7 +426,7 @@
                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                     <div class="skill">
                                         <div class="skill-inner">
-                                            <img style="width: 90px; margin-bottom: 0px;" src="assets/images/php.png" alt="PHP">
+                                            <img style="width: 90px; margin-bottom: 0px;" src="assets/images/php.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                             <h1 class="percent">98%</h1>
                                         </div>
                                         <p class="name">Core PHP</p>
@@ -436,7 +435,7 @@
                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_bottom">
                                     <div class="skill">
                                         <div class="skill-inner">
-                                            <img src="assets/images/laravel.png" alt="Laravel/PHP">
+                                            <img src="assets/images/laravel.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                             <h1 class="percent">98%</h1>
                                         </div>
                                         <p class="name">Laravel Framework</p>
@@ -445,7 +444,7 @@
                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_right">
                                     <div class="skill">
                                         <div class="skill-inner">
-                                            <img src="assets/images/react.png" alt="React">
+                                            <img src="assets/images/react.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                             <h1 class="percent">80%</h1>
                                         </div>
                                         <p class="name">React.js</p>
@@ -454,7 +453,7 @@
                                 <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
                                     <div class="skill">
                                         <div class="skill-inner">
-                                            <img src="assets/images/wordpress.png" alt="WordPress">
+                                            <img src="assets/images/wordpress.png" alt="WordPress" loading="lazy">
                                             <h1 class="percent">60%</h1>
                                         </div>
                                         <p class="name">WordPress</p>
@@ -464,7 +463,7 @@
                                  <div class="col-md-3 scroll-animation" data-animation="fade_from_left">
                                     <div class="skill">
                                         <div class="skill-inner">
-                                            <img style="width: 80px; margin-bottom: 15px;" src="assets/images/jquery.png" alt="JavaScript">
+                                            <img style="width: 80px; margin-bottom: 15px;" src="assets/images/jquery.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                             <h1 class="percent">90%</h1>
                                         </div>
                                         <p class="name">JavaScript/jQuery</p>
@@ -502,7 +501,7 @@
                                     <div class="portfolio-item portfolio-full">
                                         <div class="portfolio-item-inner">
                                             <a href="assets/images/portfolio1.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio1.jpg" alt="Portfolio">
+                                                <img src="assets/images/portfolio1.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                             </a>
         
                                             <ul class="portfolio-categories">
@@ -526,7 +525,7 @@
                                     <div class="portfolio-item portfolio-half">
                                         <div class="portfolio-item-inner">
                                             <a href="assets/images/portfolio3.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio3.jpg" alt="Portfolio">
+                                                <img src="assets/images/portfolio3.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                             </a>
         
                                             <ul class="portfolio-categories">
@@ -545,7 +544,7 @@
                                     <div class="portfolio-item portfolio-half">
                                         <div class="portfolio-item-inner">
                                             <a href="assets/images/portfolio3.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio3.jpg" alt="Portfolio">
+                                                <img src="assets/images/portfolio3.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                             </a>
         
                                             <ul class="portfolio-categories">
@@ -565,7 +564,7 @@
                                     <div class="portfolio-item portfolio-half">
                                         <div class="portfolio-item-inner">
                                             <a href="assets/images/portfolio4.jpg" data-lightbox="example-1">
-                                                <img src="assets/images/portfolio4.jpg" alt="Portfolio">
+                                                <img src="assets/images/portfolio4.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                             </a>
         
                                             <ul class="portfolio-categories">
@@ -603,7 +602,7 @@
                                     <div class="testimonial-item">
                                         <div class="testimonial-item-inner">
                                             <div class="author d-flex align-items-center">
-                                                <img src="assets/images/testimonial-1.jpg" alt="testinomial">
+                                                <img src="assets/images/testimonial-1.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                                 <div class="right">
                                                     <h3>Aligator</h3>
                                                     <p class="designation">Data Analyst of <span>Evna Care</span></p>
@@ -617,7 +616,7 @@
                                     <div class="testimonial-item">
                                         <div class="testimonial-item-inner">
                                             <div class="author d-flex align-items-center">
-                                                <img src="assets/images/testimonial-1.jpg" alt="testinomial">
+                                                <img src="assets/images/testimonial-1.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                                 <div class="right">
                                                     <h3>zmustna</h3>
                                                     <p class="designation">Project Maneger</p>
@@ -631,7 +630,7 @@
                                     <div class="testimonial-item">
                                         <div class="testimonial-item-inner">
                                             <div class="author d-flex align-items-center">
-                                                <img src="assets/images/testimonial-1.jpg" alt="testinomial">
+                                                <img src="assets/images/testimonial-1.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                                                 <div class="right">
                                                     <h3>Phil Foden</h3>
                                                     <p class="designation">--</p>
@@ -725,6 +724,33 @@
     <script src="assets/js/main.js"></script>
     <script src="assets/js/ajax-form.js"></script>
     <script src="assets/js/color.js"></script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Zillur Rahman",
+            "url": "https://zillurweb.xyz",
+            "image": "https://zillurweb.xyz/assets/images/me.jpg",
+            "jobTitle": "Software Engineer",
+            "description": "I create custom web applications using Core PHP, Laravel, and MySQL. Skilled in HTML5, CSS3, JavaScript.",
+            "sameAs": [
+                "https://linkedin.com/in/your-profile",
+                "https://twitter.com/your-profile",
+                "https://github.com/your-profile"
+            ]
+        }
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-G0049ERDJT"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-G0049ERDJT');
+    </script>
+
 </body>
 
 </html>
