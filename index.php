@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
+  <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>I’m Zillur Rahman, a passionate software engineer</title>
@@ -10,23 +10,53 @@
     <meta name="keywords" content="Zillur-Web, zillurweb, Zillur Rahman, PHP Developer, Laravel Expert, Web Application Creator, MySQL, Front-end Developer, HTML5, CSS3, JavaScript, React.js">
 
     <link rel="icon" type="image/x-icon" href="assets/images/me.jpg">
-    
-    <meta property="og:title" content="I’m Zillur Rahman, a passionate software engineer" />
-    <meta name="og:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
 
-    <meta property="og:image" content="https://zillurweb.xyz/assets/images/me.jpg" />
-    <meta property="og:url" content="https://zillurweb.xyz" />
-    <meta property="og:type" content="Software Engineer" />
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="I’m Zillur Rahman, a passionate software engineer" />
+    <meta property="og:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+    <meta property="og:image" content="https://zillurweb.com/assets/images/me.jpg" />
+    <meta property="og:url" content="https://zillurweb.com" />
+    <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Zillur Web" />
-    
-    <!-- Twitter Cards -->
+
+    <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="I’m Zillur Rahman, a passionate software engineer" />
     <meta name="twitter:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+    <meta name="twitter:image" content="https://zillurweb.com/assets/images/me.jpg" />
+    <meta name="twitter:site" content="@zillur_web" />
 
+    <!-- Google Search -->
+    <meta name="google-site-verification" content="IhQHAh6utxlU6PHcg7G5RyikFjDTBvZGU8QG--xFmaU" />
 
-    <meta name="twitter:image" content="https://zillurweb.xyz/assets/images/me.jpg" />
-    <meta name="twitter:site" content="https://zillurweb.xyz" />
+    <!-- Instagram (Shared via OG tags) -->
+    <meta property="og:title" content="I’m Zillur Rahman, a passionate software engineer" />
+    <meta property="og:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+    <meta property="og:image" content="https://zillurweb.com/assets/images/me.jpg" />
+    <meta property="og:url" content="https://zillurweb.com" />
+
+    <!-- LinkedIn -->
+    <meta property="og:title" content="I’m Zillur Rahman, a passionate software engineer" />
+    <meta property="og:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+    <meta property="og:image" content="https://zillurweb.com/assets/images/me.jpg" />
+    <meta property="og:url" content="https://zillurweb.com" />
+    <meta property="og:type" content="article" />
+
+    <!-- Threads (Shared via OG tags) -->
+    <meta property="og:title" content="I’m Zillur Rahman, a passionate software engineer" />
+    <meta property="og:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+    <meta property="og:image" content="https://zillurweb.com/assets/images/me.jpg" />
+
+    <!-- WhatsApp -->
+    <meta property="og:title" content="I’m Zillur Rahman, a passionate software engineer" />
+    <meta property="og:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+    <meta property="og:image" content="https://zillurweb.com/assets/images/me.jpg" />
+    <meta property="og:url" content="https://zillurweb.com" />
+
+    <!-- IMO -->
+    <meta name="imo:title" content="I’m Zillur Rahman, a passionate software engineer" />
+    <meta name="imo:description" content="Zillur Rahman is a Jr. Software Engineer, PHP Developer, Laravel Expert, and Web Application Creator. I offer custom web applications, Laravel solutions, MySQL integration, bug fixing, and payment gateway setup. Let’s collaborate to make your ideas a reality!">
+    <meta name="imo:image" content="https://zillurweb.com/assets/images/me.jpg" />
 
     <!-- Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -729,8 +759,8 @@
             "@context": "https://schema.org",
             "@type": "Person",
             "name": "Zillur Rahman",
-            "url": "https://zillurweb.xyz",
-            "image": "https://zillurweb.xyz/assets/images/me.jpg",
+            "url": "https://zillurweb.com",
+            "image": "https://zillurweb.com/assets/images/me.jpg",
             "jobTitle": "Software Engineer",
             "description": "I create custom web applications using Core PHP, Laravel, and MySQL. Skilled in HTML5, CSS3, JavaScript.",
             "sameAs": [
