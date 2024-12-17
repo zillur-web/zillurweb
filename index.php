@@ -243,7 +243,7 @@
     <div class="left-sidebar">
         <div class="sidebar-header text-center">
             <a href="index.php">
-                <img src="assets/images/logo.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
+                <img src="assets/images/Zillur-Web, zillurweb, Zillur Rahman, PHP Developer, Laravel Expert, Web Application Creator, MySQL, Front-end Developer, HTML5, CSS3, JavaScript, React.js.svg" alt="Zillur-Web, zillurweb, Zillur Rahman, PHP Developer, Laravel Expert, Web Application Creator, MySQL, Front-end Developer, HTML5, CSS3, JavaScript, React.js, Zillur Rahman, Jr. Software Engineer" loading="lazy">
             </a>
              <!-- <h1>Zillur Rahman</h1> -->
             <!-- <span class="designation">Framer </span> -->
@@ -268,8 +268,8 @@
                 <a href="https://github.com/zillur-web"><i class="lab la-github"></i></a>
             </li>
         </ul>
-        <a href="#" class="theme-btn">
-            <i class="las la-envelope"></i> Hire Me!
+        <a href="cv/ZILLUR RAHMAN CV.pdf" download class="theme-btn">
+            <i class="las la-file-pdf"></i> Get Resume!
         </a>
     </div>
 
@@ -279,7 +279,7 @@
 
                 <div class="left-sidebar">
                     <div class="sidebar-header d-flex align-items-center justify-content-between">
-                        <img src="assets/images/logo.png" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
+                        <img src="assets/images/Zillur-Web, zillurweb, Zillur Rahman, PHP Developer, Laravel Expert, Web Application Creator, MySQL, Front-end Developer, HTML5, CSS3, JavaScript, React.js.svg" alt="Zillur-Web, zillurweb, Zillur Rahman, PHP Developer, Laravel Expert, Web Application Creator, MySQL, Front-end Developer, HTML5, CSS3, JavaScript, React.js, Zillur Rahman, Jr. Software Engineer"loading="lazy">
                     </div>
                     <img class="me" src="assets/images/me.jpg" alt="Zillur Rahman, Jr. Software Engineer" loading="lazy">
                    
@@ -299,8 +299,8 @@
                             <a href="https://github.com/zillur-web"><i class="lab la-github"></i></a>
                         </li>
                     </ul>
-                    <a href="#" class="theme-btn">
-                        <i class="las la-envelope"></i> Hire Me!
+                    <a href="cv/ZILLUR RAHMAN CV.pdf" download class="theme-btn">
+                        <i class="las la-file-pdf"></i> Get Resume!
                     </a>
                 </div>
 

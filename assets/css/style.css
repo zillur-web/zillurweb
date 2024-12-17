@@ -31,7 +31,8 @@
 
 */
 :root {
-    --primary_color: #28e98c;
+    /*--primary_color: #28e98c;*/
+    --primary_color: #F16E57;
 }
 *,*::before,*::after {
     margin: 0;
